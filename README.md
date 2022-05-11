@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Donggu Seo 👋
+<p>
+  <a href='https://www.linkedin.com/in/dongguseo/'>
+    <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'>
+  </a>
+</p>
+
+---
 
 <!--
 **sudongcu/sudongcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
