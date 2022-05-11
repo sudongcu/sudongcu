@@ -1,7 +1,7 @@
 ### Hi there, I'm Donggu Seo 👋
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
-    <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue'>
+    <img src='https://img.shields.io/badge/dongguseo-blue?style=flat&logo=linkedin&labelColor=blue'>
   </a>
 </p>
 
