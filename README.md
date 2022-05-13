@@ -7,7 +7,7 @@
 
 ---
 
-<p>
+<p align="center">
   <img src='https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp&labelColor=%23239120'>
   <img src='https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=.NET&labelColor=%23512BD4'>
 </p>
