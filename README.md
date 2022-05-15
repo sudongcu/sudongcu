@@ -3,7 +3,7 @@
 </div>
 
 #### About
-- Software Developer
+- Backend Developer
 - Mainly enjoy to use C# and .NET when I code
 
 <p>
