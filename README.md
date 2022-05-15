@@ -1,3 +1,7 @@
+<div align="center">
+  <img src='https://user-images.githubusercontent.com/39644202/168452627-15bfbc0c-4f80-432b-a1d3-b3b6278bc681.png'  width="100%">
+</div>
+
 ### Hi there, I'm Donggu Seo 👋
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
