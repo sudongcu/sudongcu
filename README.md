@@ -14,8 +14,6 @@
 
 [![aws-certified-cloud-practitioner](https://github.com/sudongcu/sudongcu/assets/39644202/9e9a8782-9f40-493b-afed-23c9ec2cfea5)](https://www.credly.com/badges/62adf48f-1c02-479a-8a94-d189b4951d73/public_url)
 
-#### Resume
-[ver. ko](https://donggu-seo.notion.site/NET-b4d9df803a9444f29225e5231cb2ea0c?pvs=4)
 
 <!--
 #### Skills
