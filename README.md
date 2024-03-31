@@ -4,7 +4,6 @@
 
 #### About
 - Backend Developer
-- Mainly enjoy to use C# and .NET when I code
 
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
