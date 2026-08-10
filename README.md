@@ -3,7 +3,7 @@
 </div>
 
 #### About
-- Software Developer
+- Service Builder
 
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
