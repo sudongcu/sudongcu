@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: sudongcu/mowmow@main
         with:
-          github_user_name: octocat
+          github_user_name: sudongcu
           cycle: "54"
           mower: goat
           mower_color: "#d9964a"
