@@ -6,10 +6,9 @@
 #### About
 - Service Builder
 
-
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
-    <img src='https://img.shields.io/badge/dongguseo-blue?style=flat-square&logo=linkedin&labelColor=blue'>
+    <img src='https://img.shields.io/badge/LinkedIn-dongguseo-0A66C2?style=flat-square'>
   </a>
 </p>
 
