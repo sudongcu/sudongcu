@@ -12,6 +12,8 @@ jobs:
       - uses: sudongcu/mowmow@v1
         with:
           github_user_name: sudongcu
-          cycle: "54"
+          cycle: "57"
           mower: goat
-          mower_color: "#d9964a"
+          outputs: |
+            lawn.svg?stripes=false
+            lawn-dark.svg?stripes=false&theme=dark
