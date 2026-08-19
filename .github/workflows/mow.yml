@@ -14,6 +14,3 @@ jobs:
           github_user_name: sudongcu
           cycle: "57"
           mower: goat
-          outputs: |
-            lawn.svg?stripes=false
-            lawn-dark.svg?stripes=false&theme=dark
