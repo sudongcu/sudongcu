@@ -12,7 +12,6 @@ jobs:
       - uses: sudongcu/mowmow@v1
         with:
           github_user_name: sudongcu
-          github_token: ${{ secrets.MOWMOW_TOKEN }}
           cycle: "54"
           mower: goat
           mower_color: "#d9964a"
