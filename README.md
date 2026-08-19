@@ -1,9 +1,11 @@
-<div align="center">
-  <img src='https://user-images.githubusercontent.com/39644202/168452627-15bfbc0c-4f80-432b-a1d3-b3b6278bc681.png' width="100%">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudongcu/sudongcu/output/lawn-dark.svg" />
+  <img alt="my contribution lawn" src="https://raw.githubusercontent.com/sudongcu/sudongcu/output/lawn.svg" />
+</picture>
 
 #### About
 - Service Builder
+
 
 <p>
   <a href='https://www.linkedin.com/in/dongguseo/'>
